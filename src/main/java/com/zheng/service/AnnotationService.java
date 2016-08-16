@@ -8,6 +8,5 @@ package com.zheng.service;
  *
  */
 public interface AnnotationService {
-	
 	public String say(String str);
 }
